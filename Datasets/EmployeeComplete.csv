@@ -1,0 +1,1001 @@
+﻿EmployeeID,FullName,Department,Gender,Age,AnnualSalary,Country
+E02387,Emily Davis,IT,Female,55,141604,United States
+E04105,Theodore Dinh,IT,Male,59,99975,China
+E02572,Luna Sanders,Finance,Female,50,163099,United States
+E02832,Penelope Jordan,IT,Female,26,84913,United States
+E01639,Austin Vo,Finance,Male,55,95409,United States
+E00644,Joshua Gupta,Sales,Male,57,50994,China
+E01550,Ruby Barnes,IT,Female,27,119746,United States
+E04332,Luke Martin,Finance,Male,25,41336,United States
+E04533,Easton Bailey,Accounting,Male,29,113527,United States
+E03838,Madeline Walker,Finance,Female,34,77203,United States
+E00591,Savannah Ali,Human Resources,Female,36,157333,United States
+E03344,Camila Rogers,Engineering,Female,27,109851,United States
+E00530,Eli Jones,Human Resources,Male,59,105086,United States
+E04239,Everleigh Ng,Finance,Female,51,146742,China
+E03496,Robert Yang,Accounting,Male,31,97078,United States
+E00549,Isabella Xi,Marketing,Female,41,249270,United States
+E00163,Bella Powell,Finance,Female,65,175837,United States
+E00884,Camila Silva,Marketing,Female,64,154828,United States
+E04116,David Barnes,IT,Male,64,186503,United States
+E04625,Adam Dang,Sales,Male,45,166331,China
+E03680,Elias Alvarado,IT,Male,56,146140,Brazil
+E04732,Eva Rivera,Sales,Female,36,151703,United States
+E03484,Logan Rivera,IT,Male,59,172787,Brazil
+E00671,Leonardo Dixon,Sales,Male,37,49998,United States
+E02071,Mateo Her,Sales,Male,44,207172,China
+E02206,Jose Henderson,Human Resources,Male,41,152239,United States
+E04545,Abigail Mejia,Engineering,Female,56,98581,Brazil
+E00154,Wyatt Chin,Engineering,Male,43,246231,United States
+E03343,Carson Lu,Engineering,Male,64,99354,China
+E00304,Dylan Choi,IT,Male,63,231141,China
+E02594,Ezekiel Kumar,IT,Male,28,54775.00,United States
+E00402,Dominic Guzman,Finance,Male,65,55499.00,Brazil
+E01994,Angel Powell,Sales,Male,61,66521.00,United States
+E03549,Mateo Vu,Sales,Male,30,59100.00,China
+E03247,Caroline Jenkins,Finance,Female,27,49011.00,United States
+E02074,Nora Brown,IT,Female,32,99575.00,United States
+E04152,Adeline Huang,Engineering,Female,34,99989.00,China
+E01628,Jackson Perry,Marketing,Male,27,256420.00,United States
+E04285,Riley Padilla,IT,Female,35,78940.00,United States
+E01417,Leah Pena,IT,Female,57,82872.00,Brazil
+E01754,Owen Lam,Human Resources,Male,30,86317.00,China
+E03749,Kennedy Foster,Marketing,Female,53,113135.00,United States
+E03574,John Moore,IT,Male,52,199808.00,United States
+E04600,William Vu,Sales,Male,37,56037.00,China
+E00586,Sadie Washington,Marketing,Female,29,122350.00,United States
+E03538,Gabriel Holmes,IT,Male,40,92952.00,United States
+E02185,Wyatt Rojas,IT,Male,32,79921.00,United States
+E03830,Eva Coleman,IT,Female,37,167199.00,United States
+E03720,Dominic Clark,Engineering,Male,52,71476.00,United States
+E03025,Lucy Alexander,Engineering,Female,45,189420.00,United States
+E04917,Everleigh Washington,Human Resources,Female,64,64057.00,United States
+E00415,Leilani Butler,Marketing,Female,27,68728.00,United States
+E02862,Peyton Huang,IT,Female,25,125633.00,China
+E04207,John Contreras,Marketing,Male,35,66889.00,United States
+E02139,Rylee Yu,Accounting,Female,36,178700.00,United States
+E01797,Piper Lewis,Engineering,Female,33,83990.00,United States
+E01839,Stella Alexander,Engineering,Female,52,102043.00,United States
+E01633,Addison Do,Engineering,Female,46,90678.00,United States
+E01848,Zoey Jackson,Human Resources,Female,46,59067.00,United States
+E00716,John Chow,Marketing,Male,45,135062.00,China
+E00699,Ava Ayala,IT,Female,55,159044.00,Brazil
+E00502,Natalia Salazar,Accounting,Female,44,74691.00,Brazil
+E04000,Skylar Carrillo,Engineering,Female,44,92753.00,United States
+E02112,Christian Sanders,Human Resources,Male,45,236946.00,United States
+E03824,Penelope Coleman,Finance,Female,36,48906.00,United States
+E03906,Piper Richardson,Sales,Female,38,80024.00,United States
+E00436,Everly Walker,Human Resources,Female,41,54415.00,United States
+E04798,Aurora Ali,Marketing,Female,30,120341.00,United States
+E01249,Penelope Guerrero,IT,Female,43,208415.00,United States
+E03349,Anna Mehta,IT,Female,32,78844.00,United States
+E02966,William Foster,Engineering,Male,58,76354.00,United States
+E01499,Jade Rojas,Finance,Female,37,165927.00,United States
+E00105,Isla Espinoza,Accounting,Female,38,109812.00,Brazil
+E00665,David Chu,Engineering,Male,55,86299.00,United States
+E00791,Thomas Padilla,Marketing,Male,57,206624.00,Brazil
+E01540,Miles Salazar,IT,Male,36,53215.00,Brazil
+E04474,Mila Hong,Engineering,Female,30,86858.00,China
+E03417,Benjamin Moua,IT,Male,40,93971.00,China
+E00254,Samuel Morales,Finance,Male,34,57008.00,United States
+E02166,John Soto,Finance,Male,60,141899.00,United States
+E00935,Joseph Martin,Marketing,Male,41,64847.00,United States
+E01525,Jose Ross,Engineering,Male,53,116878.00,United States
+E00386,Parker James,Engineering,Male,45,70505.00,United States
+E00416,Everleigh Fernandez,Engineering,Female,30,189702.00,Brazil
+E03383,Lincoln Hall,Accounting,Male,26,180664.00,United States
+E01516,Willow Mai,Human Resources,Female,45,48345.00,China
+E01234,Jack Cheng,Human Resources,Male,42,152214.00,China
+E03440,Genesis Navarro,IT,Female,41,69803.00,Brazil
+E00431,Eliza Hernandez,IT,Female,48,76588.00,Brazil
+E01258,Gabriel Brooks,IT,Male,29,84596.00,United States
+E00440,Jack Huynh,Marketing,Male,27,114441.00,China
+E00595,Everly Chow,Finance,Female,33,140402.00,China
+E00972,Amelia Salazar,Finance,Female,26,59817.00,Brazil
+E04562,Xavier Zheng,Sales,Male,31,55854.00,United States
+E02802,Matthew Chau,Human Resources,Male,53,95998.00,United States
+E01427,Mia Cheng,Sales,Female,34,154941.00,United States
+E04568,Rylee Yu,Finance,Female,54,247022.00,China
+E04931,Zoe Romero,IT,Female,32,88072.00,Brazil
+E00443,Nolan Bui,IT,Male,28,67925.00,China
+E03890,Nevaeh Jones,Sales,Female,31,219693.00,United States
+E01194,Samantha Adams,Engineering,Female,45,61773.00,United States
+E02875,Madeline Shin,IT,Female,48,74546.00,United States
+E04959,Noah King,Engineering,Male,56,62575.00,United States
+E03816,Leilani Chow,Human Resources,Female,27,199041.00,China
+E01261,Connor Simmons,Accounting,Male,55,52310.00,United States
+E03612,Grayson Cooper,Finance,Male,64,159571.00,United States
+E01388,Ivy Soto,Engineering,Female,50,91763.00,United States
+E03875,Aurora Simmons,Engineering,Female,51,96475.00,United States
+E04413,Andrew Thomas,Engineering,Male,36,113781.00,United States
+E00691,Ezekiel Desai,Finance,Male,42,166599.00,United States
+E03047,Gabriella Gupta,Sales,Female,41,95372.00,China
+E04903,Skylar Liu,IT,Female,29,161203.00,China
+E04735,Nova Coleman,IT,Female,44,74738.00,United States
+E02850,Evelyn Dinh,Sales,Female,41,171173.00,United States
+E03583,Brooks Marquez,Sales,Male,61,201464.00,United States
+E02017,Connor Joseph,Human Resources,Male,50,174895.00,United States
+E01642,Mia Lam,IT,Female,49,134486.00,United States
+E04379,Scarlett Rodriguez,Finance,Female,60,71699.00,Brazil
+E04131,Cora Rivera,Marketing,Female,42,94430.00,United States
+E02872,Liam Jung,Finance,Male,39,103504.00,China
+E02331,Sophia Huynh,IT,Female,55,92771.00,United States
+E00417,Athena Carrillo,Finance,Female,39,71531.00,United States
+E04267,Greyson Sanders,IT,Male,28,90304.00,United States
+E03061,Vivian Lewis,Marketing,Female,65,104903.00,United States
+E00013,Elena Vang,Finance,Female,52,55859.00,China
+E04265,Natalia Diaz,Engineering,Female,62,79785.00,United States
+E04769,Mila Leung,Marketing,Female,39,99017.00,China
+E03042,Ava Nelson,IT,Female,63,53809.00,United States
+E00527,Mateo Chu,Engineering,Male,27,71864.00,China
+E01095,Isla Lai,Finance,Female,37,225558.00,China
+E03131,Ezekiel Reed,IT,Male,37,128984.00,United States
+E01713,Nolan Guzman,Engineering,Male,46,96997.00,Brazil
+E00128,Everleigh Espinoza,Human Resources,Female,54,176294.00,United States
+E03849,Evelyn Jung,Sales,Female,30,48340.00,China
+E02464,Sophie Silva,Engineering,Female,28,240488.00,Brazil
+E00306,Mateo Williams,IT,Male,40,97339.00,United States
+E03737,Kennedy Rahman,Human Resources,Female,49,211291.00,China
+E02783,Levi Mendez,Sales,Male,39,249506.00,Brazil
+E02939,Julian Fong,Engineering,Male,61,80950.00,China
+E02706,Nevaeh Kang,Engineering,Female,46,86538.00,China
+E00170,Hannah Nelson,Marketing,Female,35,70992.00,United States
+E01425,Anthony Rogers,Engineering,Male,33,205314.00,United States
+E00130,Paisley Kang,Human Resources,Female,61,196951.00,China
+E02094,Matthew Gupta,IT,Male,45,67686.00,China
+E03567,Silas Chavez,IT,Male,51,86431.00,United States
+E04682,Colton Thao,Human Resources,Male,55,125936.00,China
+E00957,Genesis Perry,Sales,Female,46,149712.00,United States
+E04458,Alexander Bryant,Engineering,Male,30,88758.00,United States
+E01499,Elias Zhang,IT,Male,54,83639.00,China
+E00521,Lily Carter,IT,Female,54,68268.00,United States
+E03717,Joseph Ruiz,Engineering,Male,45,75819.00,Brazil
+E01533,Avery Bailey,Sales,Female,49,86658.00,United States
+E04449,Miles Hsu,Finance,Male,55,74552.00,China
+E02855,Piper Cheng,IT,Female,62,82839.00,United States
+E00816,Skylar Watson,IT,Female,28,64475.00,United States
+E02283,Jaxon Park,IT,Male,33,69453.00,China
+E04888,Elijah Henry,IT,Male,32,127148.00,United States
+E03907,Camila Watson,Finance,Female,32,190253.00,United States
+E02166,Lucas Thomas,Accounting,Male,55,115798.00,United States
+E00431,Skylar Doan,Human Resources,Female,58,93102.00,United States
+E01501,Hudson Liu,Engineering,Male,34,110054.00,United States
+E01141,Gianna Williams,Engineering,Female,27,95786.00,United States
+E02254,Jaxson Sandoval,Sales,Male,61,90855.00,Brazil
+E04504,Jameson Alvarado,IT,Male,47,92897.00,Brazil
+E03394,Joseph Ly,Marketing,Male,40,242919.00,China
+E02942,Daniel Richardson,Engineering,Male,30,184368.00,United States
+E04130,Elias Figueroa,Finance,Male,45,144754.00,United States
+E02848,Emma Brooks,Sales,Female,30,89458.00,United States
+E00085,Isla Wong,Accounting,Female,56,190815.00,United States
+E03956,Everly Walker,Sales,Female,62,137995.00,United States
+E00672,Mila Pena,Human Resources,Female,45,93840.00,Brazil
+E04618,Mason Zhao,IT,Male,46,94790.00,China
+E03506,Jaxson Mai,Human Resources,Male,48,197367.00,United States
+E00568,Ava Garza,Accounting,Female,27,174097.00,United States
+E00535,Nathan Mendez,IT,Male,53,120128.00,United States
+E04630,Maria Griffin,Marketing,Female,59,129708.00,United States
+E00874,Alexander Choi,Marketing,Male,55,102270.00,United States
+E01546,Maria Hong,Finance,Female,43,249686.00,China
+E00941,Sophie Ali,Finance,Female,55,50475.00,United States
+E03446,Julian Ross,Marketing,Male,51,100099.00,United States
+E01361,Emma Hill,IT,Female,54,41673.00,United States
+E01631,Leilani Yee,Marketing,Female,47,70996.00,China
+E03719,Jack Brown,Marketing,Male,55,40752.00,United States
+E03269,Charlotte Chu,IT,Female,50,97537.00,China
+E01037,Jeremiah Chu,IT,Male,31,96567.00,China
+E00671,Miles Cho,IT,Male,47,49404.00,China
+E02216,Caleb Marquez,IT,Male,29,66819.00,Brazil
+E02803,Eli Soto,Marketing,Male,38,50784.00,Brazil
+E01584,Carter Mejia,Human Resources,Male,29,125828.00,Brazil
+E02489,Ethan Clark,Human Resources,Male,33,92610.00,United States
+E03189,Asher Jackson,Sales,Male,50,123405.00,United States
+E03560,Ayla Ng,Sales,Female,46,73004.00,China
+E00769,Jose Kang,Engineering,Male,57,95061.00,China
+E02791,Aubrey Romero,Sales,Female,49,160832.00,United States
+E02333,Jaxson Wright,IT,Male,54,64417.00,United States
+E01002,Elias Ali,Sales,Male,28,127543.00,China
+E03520,Nolan Pena,Marketing,Male,30,56154.00,Brazil
+E00752,Luna Liu,Sales,Female,36,218530.00,China
+E00233,Brooklyn Reyes,IT,Female,36,91954.00,United States
+E02639,Hadley Parker,Marketing,Female,30,221217.00,United States
+E00697,Jonathan Chavez,IT,Male,29,87536.00,United States
+E02183,Sarah Ayala,Sales,Female,47,41429.00,United States
+E00715,Elijah Kang,Engineering,Male,35,245482.00,United States
+E04288,Ella White,Engineering,Female,25,71359.00,United States
+E02421,Jordan Truong,Engineering,Male,45,183161.00,United States
+E00523,Daniel Jordan,IT,Male,58,69260.00,United States
+E03615,Daniel Dixon,Engineering,Male,51,95639.00,United States
+E02761,Luca Duong,Human Resources,Male,48,120660.00,China
+E02121,Levi Brown,Sales,Male,36,75119.00,United States
+E01486,Mason Cho,Accounting,Male,59,192213.00,United States
+E00725,Nova Herrera,Sales,Female,45,65047.00,Brazil
+E03027,Elijah Watson,Sales,Male,29,151413.00,United States
+E03689,Wesley Gray,Accounting,Male,62,76906.00,United States
+E01986,Wesley Sharma,IT,Male,51,122802.00,China
+E01286,Mateo Mendez,Engineering,Male,47,99091.00,United States
+E01409,Jose Molina,Engineering,Male,40,113987.00,Brazil
+E00626,Luna Simmons,Finance,Female,28,95045.00,United States
+E04342,Samantha Barnes,Marketing,Female,29,190401.00,United States
+E03904,Hunter Ortiz,Finance,Male,46,86061.00,Brazil
+E01291,Thomas Aguilar,Sales,Male,45,79882.00,United States
+E00917,Skylar Bell,Engineering,Female,30,255431.00,United States
+E01484,Anna Zhu,IT,Female,48,82017.00,China
+E03864,Ella Hunter,Finance,Female,51,53799.00,United States
+E00488,Emery Hunter,Sales,Female,28,82739.00,United States
+E02227,Sofia Parker,IT,Female,36,99080.00,United States
+E04802,Lucy Fong,Sales,Female,40,96719.00,China
+E01970,Vivian Barnes,Human Resources,Female,51,180687.00,United States
+E02813,Kai Chow,Engineering,Male,45,95743.00,United States
+E02031,Melody Cooper,Engineering,Female,44,89695.00,United States
+E03252,James Bui,Finance,Male,64,122753.00,China
+E04871,Liam Grant,Human Resources,Male,30,93734.00,United States
+E03547,Owen Han,Accounting,Male,28,52069.00,China
+E04742,Kinsley Vega,Accounting,Female,33,258426.00,Brazil
+E01070,Leonardo Martin,Finance,Male,51,125375.00,United States
+E04359,Greyson Lam,Accounting,Male,25,198243.00,United States
+E03268,Emilia Rivera,Engineering,Female,42,96023.00,United States
+E04035,Penelope Johnson,Marketing,Female,34,83066.00,United States
+E01221,Eva Figueroa,Sales,Female,48,61216.00,United States
+E00276,Ezekiel Jordan,Accounting,Male,33,144231.00,United States
+E01687,Luke Mai,Human Resources,Male,41,51630.00,China
+E02844,Charles Diaz,Sales,Male,55,124129.00,Brazil
+E01263,Adam Espinoza,Engineering,Male,36,60055.00,United States
+E00119,Jack Maldonado,Engineering,Male,31,189290.00,Brazil
+E03935,Cora Jiang,IT,Female,53,182202.00,United States
+E00742,Cooper Mitchell,Sales,Male,43,117518.00,United States
+E02810,Layla Torres,Finance,Female,37,157474.00,Brazil
+E01860,Jack Edwards,Marketing,Male,38,126856.00,United States
+E04890,Eleanor Chan,Accounting,Female,49,129124.00,China
+E02285,Aria Xi,Sales,Female,45,165181.00,United States
+E00842,John Vega,Finance,Male,50,247939.00,Brazil
+E01271,Luke Munoz,Engineering,Male,64,169509.00,Brazil
+E01921,Sarah Daniels,Accounting,Female,55,138521.00,United States
+E03664,Aria Castro,Engineering,Female,45,113873.00,Brazil
+E00813,Autumn Joseph,IT,Female,39,73317.00,United States
+E00870,Evelyn Liang,IT,Female,40,69096.00,United States
+E04167,Henry Alvarez,Human Resources,Male,48,87158.00,Brazil
+E00245,Benjamin Delgado,Engineering,Male,64,70778.00,United States
+E00976,Zoe Rodriguez,Human Resources,Female,65,153938.00,United States
+E04112,Axel Chu,IT,Male,43,59888.00,China
+E01807,Cameron Evans,Engineering,Male,50,63098.00,United States
+E04103,Isabella Soto,Finance,Female,27,255369.00,Brazil
+E01412,Eva Jenkins,Human Resources,Female,55,142318.00,United States
+E04386,Cameron Powell,Human Resources,Male,41,49186.00,United States
+E01232,Samantha Foster,Human Resources,Female,34,220937.00,United States
+E04572,Jade Li,IT,Female,47,183156.00,United States
+E02747,Kinsley Acosta,IT,Female,32,192749.00,United States
+E01064,Clara Kang,IT,Female,39,135325.00,United States
+E00178,Harper Alexander,Sales,Female,26,79356.00,United States
+E01091,Carter Reed,Engineering,Male,40,74412.00,United States
+E01525,Charlotte Ruiz,IT,Female,32,61886.00,Brazil
+E01309,Everleigh Jiang,Accounting,Female,58,173071.00,United States
+E02378,Audrey Smith,Engineering,Female,58,70189.00,United States
+E04127,Emery Acosta,Sales,Female,42,181452.00,United States
+E02072,Charles Robinson,Human Resources,Male,26,70369.00,United States
+E02555,Landon Lopez,Accounting,Male,38,78056.00,Brazil
+E00187,Miles Mehta,Finance,Male,64,189933.00,United States
+E04332,Ezra Simmons,Engineering,Male,38,78237.00,United States
+E02062,Nora Santiago,Accounting,Female,55,48687.00,Brazil
+E00034,Caroline Herrera,Marketing,Female,45,121065.00,Brazil
+E00273,David Owens,Sales,Male,43,94246.00,United States
+E00691,Avery Yee,IT,Female,34,44614.00,United States
+E01403,Xavier Park,IT,Male,40,234469.00,China
+E03438,Asher Morales,Engineering,Male,52,88272.00,Brazil
+E04136,Mason Cao,Finance,Male,52,74449.00,China
+E02944,Joshua Fong,Engineering,Male,47,222941.00,China
+E03300,Maria Chin,Marketing,Female,65,50341.00,China
+E00078,Eva Garcia,Human Resources,Female,31,72235.00,Brazil
+E00825,Anna Molina,Accounting,Female,41,70165.00,United States
+E04972,Logan Bryant,Marketing,Male,30,148485.00,United States
+E03941,Isla Han,IT,Female,58,86089.00,United States
+E02148,Christopher Vega,Engineering,Male,54,106313.00,United States
+E02252,Lillian Park,Marketing,Female,40,46833.00,China
+E03096,Kennedy Zhang,Finance,Female,63,155320.00,China
+E04800,Eli Han,Accounting,Male,40,89984.00,China
+E02838,Julia Pham,Engineering,Female,65,83756.00,China
+E02980,Hailey Shin,Human Resources,Female,57,176324.00,China
+E04477,Connor Grant,Accounting,Male,27,74077.00,United States
+E04348,Natalia Owens,Human Resources,Female,31,104162.00,United States
+E01638,Maria He,IT,Female,45,82162.00,China
+E03419,Jade Yi,Sales,Female,47,63880.00,China
+E04222,Quinn Xiong,Engineering,Female,55,73248.00,United States
+E04126,Dominic Baker,Accounting,Male,51,91853.00,United States
+E01896,Adam Nelson,Finance,Male,25,168014.00,United States
+E03018,Autumn Reed,Engineering,Female,37,70770.00,United States
+E03325,Robert Edwards,Human Resources,Male,62,50825.00,United States
+E04037,Roman Martinez,Finance,Male,31,145846.00,Brazil
+E01902,Eleanor Li,Human Resources,Female,64,125807.00,United States
+E01466,Connor Vang,Sales,Male,25,46845.00,United States
+E02038,Ellie Chung,Marketing,Female,59,157969.00,China
+E03474,Violet Hall,IT,Female,40,97807.00,United States
+E02744,Dylan Padilla,Human Resources,Male,31,73854.00,United States
+E00702,Nathan Pham,Accounting,Male,45,149537.00,United States
+E03081,Ayla Brown,Sales,Female,49,128303.00,United States
+E01281,Isaac Mitchell,IT,Male,46,67374.00,United States
+E04029,Jayden Jimenez,Human Resources,Male,46,102167.00,Brazil
+E01116,Jaxon Tran,Sales,Male,45,151027.00,China
+E01753,Connor Fong,Accounting,Male,40,120905.00,United States
+E04072,Emery Mitchell,Finance,Female,48,231567.00,United States
+E00672,Landon Luu,IT,Male,31,215388.00,United States
+E04419,Sophia Ahmed,Sales,Female,30,127972.00,United States
+E00467,Sofia Dinh,Engineering,Female,55,80701.00,United States
+E00365,Jonathan Patel,Marketing,Male,28,115417.00,China
+E00306,Piper Patterson,Engineering,Female,45,88045.00,United States
+E03292,Cora Evans,IT,Female,45,86478.00,United States
+E04779,Cameron Young,Engineering,Male,63,180994.00,United States
+E00501,Melody Ho,Finance,Female,55,64494.00,United States
+E01132,Aiden Bryant,Sales,Male,47,70122.00,United States
+E00556,Grayson Walker,Accounting,Male,29,181854.00,United States
+E00311,Scarlett Figueroa,Human Resources,Female,34,52811.00,United States
+E04567,Madeline Hoang,IT,Female,28,50111.00,China
+E04378,Ezra Simmons,IT,Male,31,71192.00,United States
+E03251,Ruby Medina,Sales,Female,50,155351.00,United States
+E03167,Luke Zheng,Human Resources,Male,39,161690.00,China
+E03347,Rylee Dinh,Engineering,Female,35,60132.00,China
+E03908,Miles Evans,IT,Male,54,87216.00,United States
+E01351,Leo Owens,IT,Male,47,50069.00,United States
+E02681,Caroline Owens,IT,Female,26,151108.00,United States
+E03807,Kennedy Do,IT,Female,42,67398.00,United States
+E00422,Jade Acosta,Engineering,Female,47,68488.00,United States
+E00265,Mila Vasquez,Engineering,Female,60,92932.00,United States
+E04601,Allison Ayala,Finance,Female,36,43363.00,United States
+E04816,Jace Zhang,IT,Male,31,95963.00,China
+E02147,Allison Medina,Finance,Female,55,111038.00,Brazil
+E02914,Maria Wilson,Engineering,Female,51,200246.00,United States
+E03268,Everly Coleman,IT,Female,48,194871.00,United States
+E03972,Jordan Gomez,Accounting,Male,58,98769.00,Brazil
+E02189,Isla Chavez,Sales,Female,29,65334.00,Brazil
+E04290,Hannah Gomez,IT,Female,25,83934.00,United States
+E03630,Jacob Davis,Accounting,Male,36,150399.00,United States
+E00432,Eli Gupta,Human Resources,Male,37,160280.00,China
+E03045,Andrew Huynh,Human Resources,Male,57,54051.00,United States
+E01924,Anna Gutierrez,Engineering,Female,59,150699.00,Brazil
+E04877,Samuel Vega,Marketing,Male,37,69570.00,United States
+E02770,Liliana Do,IT,Female,30,86774.00,China
+E04590,Isaac Sanders,Human Resources,Male,49,57606.00,United States
+E01977,Raelynn Gupta,Finance,Female,48,125730.00,China
+E01378,Genesis Xiong,IT,Female,51,64170.00,United States
+E04224,Lucas Ramos,Human Resources,Male,56,72303.00,United States
+E03423,Santiago f Gonzalez,Sales,Male,36,105891.00,United States
+E01584,Henry Zhu,Marketing,Male,38,255230.00,United States
+E00788,Emily Contreras,Sales,Female,56,59591.00,Brazil
+E00207,Hailey Lai,Human Resources,Female,52,187048.00,China
+E00834,Vivian Guzman,Finance,Female,53,58605.00,United States
+E04571,Hadley Contreras,Engineering,Female,60,178502.00,United States
+E02652,Nathan Sun,Accounting,Male,63,103724.00,China
+E02693,Grace Campos,Engineering,Female,37,156277.00,Brazil
+E03359,Autumn Ortiz,Engineering,Female,30,87744.00,Brazil
+E00399,Connor Walker,Finance,Male,30,54714.00,United States
+E02971,Mia Wu,IT,Female,45,99169.00,China
+E03327,Julia Luong,Accounting,Female,55,142628.00,China
+E00900,Eleanor Delgado,Marketing,Female,33,75869.00,Brazil
+E00836,Addison Roberts,IT,Female,65,60985.00,United States
+E03854,Camila Li,IT,Female,60,126911.00,China
+E04729,Ezekiel Fong,Sales,Male,56,216949.00,China
+E00360,Dylan Thao,Engineering,Male,53,168510.00,United States
+E02284,Josephine Salazar,Engineering,Female,36,85870.00,Brazil
+E00181,Genesis Hu,Marketing,Female,46,86510.00,China
+E04168,Mila Juarez,Sales,Female,38,119647.00,Brazil
+E02861,Daniel Perry,IT,Male,62,80921.00,United States
+E01357,Paisley Hunter,Engineering,Female,61,98110.00,United States
+E04387,Everleigh White,IT,Female,59,86831.00,United States
+E03090,Penelope Choi,IT,Female,49,72826.00,China
+E03591,Piper Sun,Marketing,Female,64,171217.00,United States
+E03328,Lucy Johnson,IT,Female,57,103058.00,United States
+E04937,Ian Ngo,Sales,Male,52,117062.00,United States
+E00515,Joseph Vazquez,Accounting,Male,40,159031.00,United States
+E01241,Hadley Guerrero,IT,Female,49,125086.00,Brazil
+E03255,Jose Brown,IT,Male,43,67976.00,United States
+E01711,Benjamin Ford,Finance,Male,31,74215.00,United States
+E00500,Henry Shah,Accounting,Male,55,187389.00,China
+E04972,Ivy Daniels,Human Resources,Female,41,131841.00,United States
+E02728,Thomas Chang,Accounting,Male,34,97231.00,China
+E04749,Caroline Phan,Finance,Female,41,155004.00,United States
+E02023,Maverick Mehta,IT,Male,40,41859.00,United States
+E03166,Austin Edwards,IT,Male,42,52733.00,United States
+E02599,Daniel Huang,Human Resources,Male,31,250953.00,United States
+E01014,Lucas Phan,Marketing,Male,49,191807.00,China
+E04529,Gabriel Yu,IT,Male,42,64677.00,China
+E00085,Mason Watson,IT,Male,46,130274.00,United States
+E00632,Angel Chang,IT,Male,37,96331.00,China
+E02108,Madeline Coleman,Finance,Female,51,150758.00,United States
+E03802,Thomas Vazquez,Engineering,Male,46,173629.00,Brazil
+E03685,Silas Hunter,IT,Male,55,62174.00,United States
+E01089,Nicholas Brooks,Accounting,Male,43,56555.00,United States
+E03988,Dominic Thomas,Marketing,Male,48,74655.00,United States
+E00401,Wesley Adams,IT,Male,48,93017.00,United States
+E03429,Ian Wu,Marketing,Male,51,82300.00,China
+E02417,Alice Young,Engineering,Female,46,91621.00,United States
+E00359,Logan Carrillo,Marketing,Male,33,91280.00,United States
+E02044,Caroline Alexander,Human Resources,Female,42,47071.00,United States
+E01479,Serenity Bailey,IT,Female,55,81218.00,United States
+E04962,Elena Tan,Engineering,Female,50,181801.00,China
+E02769,Eliza Adams,Sales,Female,26,63137.00,United States
+E03893,Alice Xiong,Engineering,Female,55,221465.00,China
+E00553,Isla Yoon,Engineering,Female,50,79388.00,United States
+E03540,Emma Perry,IT,Female,28,68176.00,United States
+E02769,Riley Marquez,Finance,Female,39,122829.00,United States
+E03277,Caroline Hu,Marketing,Female,31,126353.00,China
+E04194,Madison Kumar,Accounting,Female,55,188727.00,China
+E01807,Matthew Lim,Sales,Male,52,99624.00,United States
+E01762,Maya Ngo,Sales,Female,55,108686.00,United States
+E02632,Alice Soto,Accounting,Female,56,50857.00,Brazil
+E04226,Andrew Moore,Engineering,Male,47,120628.00,United States
+E04101,Olivia Harris,Sales,Female,63,181216.00,United States
+E01981,Genesis Banks,Finance,Female,63,46081.00,United States
+E02534,Victoria Johnson,Accounting,Female,55,159885.00,United States
+E01238,Eloise Griffin,Sales,Female,55,153271.00,United States
+E01118,Roman Yang,Human Resources,Male,42,114242.00,United States
+E04041,Clara Huynh,IT,Female,39,48415.00,China
+E04308,Kai Flores,Engineering,Male,35,65566.00,United States
+E01052,Jaxson Dinh,Marketing,Male,45,147752.00,China
+E04165,Sophie Vang,Marketing,Female,25,136810.00,China
+E02295,Axel Jordan,Sales,Male,47,54635.00,United States
+E04546,Jade Hunter,IT,Female,42,96636.00,United States
+E04217,Lydia Williams,IT,Female,35,91592.00,United States
+E00650,Emery Chang,Human Resources,Female,45,55563.00,China
+E00344,Savannah He,IT,Female,52,159724.00,China
+E04645,Elias Ahmed,Marketing,Male,57,183190.00,United States
+E03880,Samantha Woods,Accounting,Female,56,54829.00,United States
+E02730,Axel Soto,Engineering,Male,46,96639.00,Brazil
+E04517,Amelia Choi,Marketing,Female,43,117278.00,United States
+E00965,Jacob Khan,IT,Male,53,84193.00,China
+E04639,Luna Taylor,IT,Female,47,87806.00,United States
+E00465,Dominic Parker,Engineering,Male,62,63959.00,United States
+E03058,Angel Xiong,IT,Male,35,234723.00,China
+E02337,Emma Cao,Accounting,Female,27,50809.00,China
+E04927,Ezekiel Bryant,Finance,Male,55,77396.00,United States
+E03799,Natalie Hwang,Finance,Female,63,89523.00,United States
+E04538,Adeline Yang,IT,Female,53,86173.00,China
+E02633,Allison Roberts,Sales,Female,54,222224.00,United States
+E02965,Andrew Do,Finance,Male,43,146140.00,United States
+E04345,Eliana Grant,Engineering,Female,64,109456.00,United States
+E02895,Mila Soto,Finance,Female,65,170221.00,Brazil
+E01132,Gabriella Johnson,IT,Female,42,97433.00,United States
+E00758,Jonathan Khan,Sales,Male,35,59646.00,China
+E03750,Elias Dang,Engineering,Male,64,158787.00,China
+E00144,Theodore Ngo,Engineering,Male,55,83378.00,China
+E02943,Bella Lopez,Marketing,Female,32,88895.00,United States
+E03901,Luca Truong,Marketing,Male,45,168846.00,China
+E03461,Nathan Lau,Human Resources,Male,35,43336.00,United States
+E03490,Henry Campos,Human Resources,Male,38,127801.00,United States
+E04466,Connor Bell,IT,Male,54,76352.00,United States
+E03226,Angel Stewart,Finance,Male,28,250767.00,United States
+E04607,Landon Brown,Marketing,Male,26,223055.00,United States
+E02678,Nicholas Rivera,Engineering,Male,45,189680.00,Brazil
+E02190,Gabriel Carter,Engineering,Male,57,71167.00,United States
+E00747,Leilani Baker,IT,Female,59,76027.00,United States
+E00268,Ian Flores,Engineering,Male,48,183113.00,Brazil
+E01416,Hudson Thompson,Accounting,Male,30,67753.00,United States
+E01524,Ian Miller,IT,Male,31,63744.00,United States
+E03849,Harper Chin,Engineering,Female,50,92209.00,China
+E02801,Santiago f Brooks,Sales,Male,51,157487.00,United States
+E04155,Dylan Dominguez,Marketing,Male,42,99697.00,Brazil
+E01952,Everett Lee,IT,Male,45,90770.00,United States
+E00116,Madelyn Mehta,Sales,Female,64,55369.00,United States
+E04811,Athena Vasquez,Engineering,Female,59,69578.00,Brazil
+E00624,William Watson,Accounting,Male,41,167526.00,United States
+E03404,Everleigh Nunez,Engineering,Female,42,65507.00,Brazil
+E01845,Leo Fernandez,Finance,Male,54,108268.00,Brazil
+E04784,Joshua Lin,IT,Male,37,80055.00,China
+E00145,Alexander Rivera,Sales,Male,58,76802.00,Brazil
+E00218,David Desai,Sales,Male,47,253249.00,United States
+E02185,Aubrey Yoon,Human Resources,Female,60,78388.00,China
+E01070,Grayson Brown,IT,Male,38,249870.00,United States
+E03807,Noah Chen,Marketing,Male,63,148321.00,China
+E00784,Ella Nguyen,IT,Female,60,90258.00,China
+E04925,Athena Jordan,IT,Female,42,72486.00,United States
+E04448,Adrian Ruiz,Finance,Male,34,95499.00,Brazil
+E04817,Zoe Sanchez,Accounting,Female,53,90212.00,Brazil
+E00325,Jameson Chen,Marketing,Male,39,254057.00,China
+E00403,Liliana Soto,Human Resources,Female,58,43001.00,United States
+E00436,Lincoln Reyes,IT,Male,60,85120.00,United States
+E04358,Grayson Soto,Human Resources,Male,34,52200.00,United States
+E04662,Julia Morris,Human Resources,Female,60,150855.00,United States
+E01496,Ava Ortiz,IT,Female,53,65702.00,United States
+E01870,Carson Chau,Finance,Male,58,162038.00,China
+E03971,Lillian Chen,Marketing,Female,25,157057.00,United States
+E03616,Josiah Lewis,IT,Male,46,127559.00,United States
+E00153,Claire Jones,Engineering,Female,39,62644.00,United States
+E02313,Jeremiah Lu,IT,Male,50,73907.00,China
+E02960,Nova Hill,Accounting,Female,56,90040.00,United States
+E00096,Peyton Cruz,Engineering,Female,30,91134.00,Brazil
+E02140,Naomi Zhao,Human Resources,Female,45,201396.00,United States
+E00826,Rylee Bui,Accounting,Female,55,54733.00,China
+E03881,Andrew Reed,IT,Male,28,65341.00,United States
+E02604,Brooklyn Collins,Finance,Female,59,139208.00,United States
+E02613,John Jung,Sales,Male,63,73200.00,China
+E00864,Samantha Aguilar,Accounting,Female,46,102636.00,United States
+E01760,Madeline Acosta,Sales,Female,26,87427.00,Brazil
+E03223,Ethan Joseph,IT,Male,45,49219.00,United States
+E01262,Miles Mehta,Finance,Male,50,106437.00,China
+E01075,Joshua Juarez,Finance,Male,46,64364.00,Brazil
+E00364,Matthew Howard,Human Resources,Male,50,172180.00,United States
+E04108,Jade Figueroa,Sales,Female,33,88343.00,Brazil
+E02917,Everett Morales,IT,Male,57,66649.00,Brazil
+E03720,Genesis Hunter,Finance,Female,48,102847.00,United States
+E03393,Henry Figueroa,Finance,Male,46,134881.00,Brazil
+E02977,Nicholas Song,Marketing,Male,52,68807.00,China
+E03371,Jack Alexander,IT,Male,56,228822.00,United States
+E02531,Jameson Foster,Marketing,Male,28,43391.00,United States
+E02473,Leonardo Lo,Engineering,Male,29,91782.00,China
+E02468,Ella Huang,Marketing,Female,45,211637.00,United States
+E01499,Liam Jordan,IT,Male,28,73255.00,United States
+E03697,Isaac Woods,Sales,Male,28,108826.00,United States
+E00593,Luke Wilson,IT,Male,34,94352.00,United States
+E01103,Lyla Alvarez,IT,Female,55,73955.00,United States
+E03889,Caleb Flores,Human Resources,Male,34,113909.00,Brazil
+E01958,Angel Lin,IT,Male,27,92321.00,United States
+E01870,Easton Moore,IT,Male,52,99557.00,United States
+E01167,Kinsley Collins,Engineering,Female,28,115854.00,United States
+E00099,Brooklyn Salazar,IT,Female,44,82462.00,United States
+E00044,Scarlett Jenkins,IT,Female,53,198473.00,United States
+E00711,Melody Chin,Finance,Female,43,153492.00,United States
+E04795,Eloise Alexander,Human Resources,Female,28,208210.00,United States
+E03912,Carter Turner,Marketing,Male,33,91632.00,United States
+E02103,Andrew Ma,Human Resources,Male,31,71755.00,China
+E04213,Hailey Xi,Accounting,Female,52,111006.00,China
+E04756,Aiden Le,IT,Male,55,99774.00,United States
+E04114,Christopher Lim,IT,Male,55,184648.00,China
+E01423,James Castillo,IT,Male,51,247874.00,Brazil
+E03181,Greyson Dang,Engineering,Male,60,62239.00,China
+E03305,Hannah King,Accounting,Female,31,114911.00,United States
+E00703,Wesley Dominguez,Engineering,Male,45,115490.00,United States
+E04403,Dominic Hu,Accounting,Male,34,118708.00,China
+E00103,Nora Park,Accounting,Female,29,197649.00,United States
+E04487,Audrey Hwang,Accounting,Female,45,89841.00,China
+E01194,Ella Jenkins,Finance,Female,52,61026.00,United States
+E02179,Peyton Owens,Engineering,Female,48,96693.00,United States
+E04242,Alice Lopez,Engineering,Female,48,82907.00,United States
+E01371,Dominic Le,Marketing,Male,41,257194.00,China
+E03065,Ezra Ortiz,Engineering,Male,41,94658.00,United States
+E01377,Grayson Luu,Engineering,Male,55,89419.00,China
+E03097,Brooks Stewart,Human Resources,Male,45,51983.00,United States
+E01668,Naomi Xi,Finance,Female,53,179494.00,China
+E03354,Silas Estrada,IT,Male,49,68426.00,Brazil
+E02088,Skylar Ayala,Finance,Female,55,144986.00,United States
+E03980,Lydia Huynh,Sales,Female,45,60113.00,United States
+E00972,Hazel Cortez,Human Resources,Female,52,50548.00,Brazil
+E00824,Everleigh Adams,Marketing,Female,33,68846.00,United States
+E04359,Layla Salazar,IT,Female,59,90901.00,United States
+E03113,Willow Chen,Accounting,Female,50,102033.00,United States
+E01488,Penelope Griffin,Sales,Female,61,151783.00,United States
+E01787,Lillian Romero,Engineering,Female,27,170164.00,United States
+E03550,Stella Wu,Marketing,Female,35,155905.00,United States
+E01052,Parker Vang,Sales,Male,40,50733.00,United States
+E04799,Mila Roberts,Human Resources,Female,30,88663.00,United States
+E03402,Isaac Liu,Engineering,Male,60,88213.00,China
+E04128,Jacob Doan,Sales,Male,55,67130.00,United States
+E00013,Raelynn Ma,Finance,Female,33,94876.00,United States
+E03114,Jameson Juarez,Engineering,Male,62,98230.00,United States
+E04004,Everleigh Shah,Engineering,Female,36,96757.00,United States
+E04472,Alexander Foster,Marketing,Male,35,51513.00,United States
+E00161,Ryan Ha,Marketing,Male,60,234311.00,United States
+E04417,Chloe Salazar,Human Resources,Female,45,152353.00,United States
+E04536,Layla Scott,Accounting,Female,48,124774.00,United States
+E02534,Leah Khan,Marketing,Female,36,157070.00,China
+E02857,Mason Jimenez,Finance,Male,44,130133.00,United States
+E03059,Hailey Dang,Marketing,Female,64,108780.00,China
+E02477,Amelia Bui,Engineering,Female,46,151853.00,China
+E00022,Elena Her,Sales,Female,62,64669.00,China
+E03370,Ian Cortez,Marketing,Male,61,69352.00,Brazil
+E00555,Christian Ali,Marketing,Male,65,74631.00,China
+E03160,Carter Ortiz,Engineering,Male,54,96441.00,Brazil
+E03919,Grayson Chan,Engineering,Male,46,114250.00,China
+E01724,Nolan Molina,IT,Male,36,70165.00,Brazil
+E04087,Adam Kaur,IT,Male,60,109059.00,China
+E02856,Amelia Kaur,Engineering,Female,30,77442.00,United States
+E03805,Autumn Gonzales,Sales,Female,34,72126.00,Brazil
+E00319,Ezra Wilson,IT,Male,55,70334.00,United States
+E01090,Jacob Cheng,Engineering,Male,59,78006.00,United States
+E04323,Melody Valdez,IT,Female,28,160385.00,United States
+E02687,Caroline Nelson,Finance,Female,36,202323.00,United States
+E01407,Ellie Guerrero,Human Resources,Female,29,141555.00,Brazil
+E02748,Genesis Zhu,Finance,Female,34,184960.00,United States
+E01995,Jonathan Ho,IT,Male,37,221592.00,United States
+E01714,Savannah Park,Human Resources,Female,44,53301.00,United States
+E04491,Nathan Chan,IT,Male,45,91276.00,United States
+E01076,Sofia Vu,Human Resources,Female,52,140042.00,United States
+E04131,Ruby Choi,Accounting,Female,40,57225.00,United States
+E02843,Lily Pena,Human Resources,Female,55,102839.00,United States
+E03758,Liam Zhang,Marketing,Male,29,199783.00,United States
+E02063,Ian Gutierrez,Human Resources,Male,32,70980.00,Brazil
+E00638,David Simmons,Marketing,Male,51,104431.00,United States
+E03571,Lincoln Henderson,Human Resources,Male,28,48510.00,United States
+E01820,Nathan Miller,Engineering,Male,27,70110.00,United States
+E01712,James Singh,Marketing,Male,45,186138.00,China
+E00184,Kayden Ortega,Accounting,Male,58,56350.00,Brazil
+E02706,Lucy Figueroa,Finance,Female,45,149761.00,United States
+E02899,Joshua Cortez,Finance,Male,44,126277.00,Brazil
+E02478,Alexander Morris,Sales,Male,33,119631.00,United States
+E04170,Grayson Chin,IT,Male,26,256561.00,United States
+E00929,Allison Espinoza,IT,Female,45,66958.00,United States
+E00530,Naomi Chu,Sales,Female,46,158897.00,China
+E03824,Jameson Martin,IT,Male,37,71695.00,United States
+E02492,Sebastian Gupta,Marketing,Male,40,73779.00,China
+E01733,Eloise Pham,Sales,Female,45,123640.00,China
+E02857,Valentina Davis,Sales,Female,33,46878.00,United States
+E04938,Brooklyn Daniels,Marketing,Female,64,57032.00,United States
+E04952,Paisley Gomez,Sales,Female,57,98150.00,Brazil
+E02420,Madison Li,Marketing,Female,35,171426.00,China
+E01639,Everleigh Simmons,Finance,Female,55,48266.00,United States
+E03947,Logan Soto,Finance,Male,36,223404.00,United States
+E04535,Charlotte Vo,IT,Female,57,74854.00,United States
+E00380,Alice Thompson,Accounting,Female,48,217783.00,United States
+E01432,Peyton Garza,IT,Female,53,44735.00,Brazil
+E02628,Nora Nelson,Finance,Female,41,50685.00,United States
+E03578,Maverick Li,Sales,Male,34,58993.00,United States
+E03563,Ian Barnes,Engineering,Male,47,115765.00,United States
+E02781,Athena Vu,Accounting,Female,63,193044.00,United States
+E04739,Ruby Washington,Marketing,Female,65,56686.00,United States
+E02665,Bella Butler,Finance,Female,33,131652.00,United States
+E04132,Kinsley Henry,Marketing,Female,45,150577.00,United States
+E00276,Kennedy Romero,Engineering,Female,37,87359.00,Brazil
+E04277,Zoe Do,Sales,Female,60,51877.00,China
+E03890,Everett Khan,IT,Male,43,86417.00,United States
+E02012,Anna Han,IT,Female,65,96548.00,United States
+E02881,Leilani Sharma,Accounting,Female,43,92940.00,China
+E03750,Jordan Cho,Accounting,Male,28,61410.00,United States
+E00605,Nova Williams,Finance,Female,61,110302.00,United States
+E04641,Scarlett Hill,Engineering,Female,45,187205.00,United States
+E01019,Dominic Scott,Sales,Male,45,81687.00,United States
+E01519,Anthony Marquez,IT,Male,54,241083.00,United States
+E03694,Elena Patterson,Finance,Female,38,223805.00,United States
+E01123,Madison Nelson,Accounting,Female,27,161759.00,United States
+E01366,William Walker,IT,Male,40,95899.00,United States
+E04005,Lincoln Wong,Finance,Male,49,80700.00,United States
+E02770,James Huang,Human Resources,Male,54,128136.00,China
+E04018,Emery Ford,Marketing,Female,39,58745.00,United States
+E01591,Paisley Trinh,IT,Female,57,76202.00,United States
+E04940,Hudson Williams,Sales,Male,36,195200.00,United States
+E03465,Harper Phan,Finance,Female,45,71454.00,China
+E03870,Madeline Allen,IT,Female,30,94652.00,United States
+E01927,Charles Moore,IT,Male,34,63411.00,United States
+E03064,Lincoln Fong,Sales,Male,31,67171.00,China
+E01883,Isla Guzman,Accounting,Female,28,152036.00,Brazil
+E03984,Hailey Foster,Engineering,Female,55,95562.00,United States
+E00446,Hudson Hill,Sales,Male,30,96092.00,United States
+E02825,Wyatt Li,Engineering,Male,63,254289.00,United States
+E04174,Maverick Henry,IT,Male,26,69110.00,United States
+E01899,Xavier Jackson,Marketing,Male,52,236314.00,United States
+E02562,Christian Medina,Marketing,Male,51,45206.00,United States
+E01006,Autumn Leung,Finance,Female,25,210708.00,United States
+E02903,Robert Vazquez,IT,Male,40,87770.00,United States
+E03642,Aria Roberts,Accounting,Female,38,106858.00,United States
+E02884,Axel Johnson,Human Resources,Male,60,155788.00,United States
+E00701,Madeline Garcia,Human Resources,Female,45,74891.00,Brazil
+E04720,Christopher Chung,Engineering,Male,28,95670.00,United States
+E01985,Eliana Turner,Sales,Female,65,67837.00,United States
+E03273,Daniel Shah,Sales,Male,41,72425.00,China
+E02415,Penelope Gonzalez,Sales,Female,52,93103.00,United States
+E02877,Mila Allen,Engineering,Female,56,76272.00,United States
+E00091,Emilia Chu,Finance,Female,48,55760.00,United States
+E02563,Emily Clark,Accounting,Female,36,253294.00,United States
+E04221,Roman King,Finance,Male,60,58671.00,United States
+E04887,Emery Do,Sales,Female,40,55457.00,United States
+E03170,Autumn Thao,Sales,Female,63,72340.00,United States
+E01636,Naomi Coleman,Marketing,Female,29,122054.00,United States
+E01387,Cora Zheng,IT,Female,27,167100.00,China
+E01363,Ayla Daniels,IT,Female,53,78153.00,United States
+E02249,Allison Daniels,Finance,Female,37,103524.00,United States
+E02987,Mateo Harris,IT,Male,30,119906.00,United States
+E03655,Samantha Rogers,Marketing,Female,28,45061.00,United States
+E04048,Julian Lee,IT,Male,51,91399.00,United States
+E03626,Nicholas Avila,IT,Male,28,97336.00,United States
+E03694,Hailey Watson,Accounting,Female,31,124629.00,United States
+E02920,Willow Woods,Human Resources,Female,28,231850.00,United States
+E03220,Alexander Gonzales,Accounting,Male,34,128329.00,United States
+E01347,Aiden Gonzales,Marketing,Male,44,186033.00,Brazil
+E03968,Joshua Chin,Marketing,Male,60,121480.00,United States
+E04299,Paisley Hall,Human Resources,Female,41,153275.00,United States
+E01150,Allison Leung,Sales,Female,62,97830.00,United States
+E03774,Hannah Mejia,Marketing,Female,47,239394.00,United States
+E01638,Elizabeth Huang,Finance,Female,62,49738.00,China
+E01877,Abigail Garza,Accounting,Female,33,45049.00,United States
+E01193,Raelynn Lu,Finance,Female,27,153628.00,China
+E01789,Charles Luu,Sales,Male,25,142731.00,China
+E01422,Lydia Espinoza,Marketing,Female,29,137106.00,Brazil
+E00440,Adeline Thao,Finance,Female,54,183239.00,United States
+E00145,Kinsley Dixon,Accounting,Female,28,45819.00,United States
+E04150,Natalia Vu,Accounting,Female,54,55518.00,United States
+E02846,Julia Mai,Marketing,Female,50,108134.00,China
+E04247,Camila Evans,Marketing,Female,55,113950.00,United States
+E02613,Everly Lai,Marketing,Female,52,182035.00,United States
+E03349,Adam He,Accounting,Male,35,181356.00,China
+E03648,Vivian Hunter,Sales,Female,26,66084.00,United States
+E02192,Lucy Avila,IT,Female,43,76912.00,Brazil
+E03981,Eliana Li,Engineering,Female,63,67987.00,United States
+E03262,Logan Mitchell,Marketing,Male,65,59833.00,United States
+E02716,Dominic Dinh,Marketing,Male,45,128468.00,United States
+E00245,Lucas Daniels,Sales,Male,42,102440.00,United States
+E04123,Andrew Holmes,IT,Male,59,246619.00,United States
+E03471,Julia Sandoval,Human Resources,Female,42,101143.00,United States
+E00717,Kennedy Vargas,Human Resources,Female,45,51404.00,Brazil
+E01966,Thomas Williams,Engineering,Male,45,87292.00,United States
+E03683,Raelynn Hong,Marketing,Female,28,182321.00,China
+E03694,Eli Reed,IT,Male,51,53929.00,United States
+E04766,Lyla Yoon,Accounting,Female,38,191571.00,United States
+E01465,Hannah White,Accounting,Female,62,150555.00,United States
+E00206,Theodore Xi,Finance,Male,52,122890.00,China
+E04088,Ezra Liang,Finance,Male,52,216999.00,United States
+E02066,Grayson Yee,Human Resources,Male,48,110565.00,China
+E03227,Eli Richardson,IT,Male,38,48762.00,United States
+E03364,Audrey Lee,Engineering,Female,51,87036.00,China
+E00607,Jameson Allen,Marketing,Male,32,177443.00,United States
+E02258,Eliza Chen,IT,Female,36,75862.00,United States
+E03681,Lyla Chen,Human Resources,Female,45,90870.00,United States
+E02298,Emily Doan,Engineering,Female,32,99202.00,United States
+E02984,Jack Mai,Marketing,Male,45,92293.00,China
+E02440,Grayson Turner,IT,Male,54,63196.00,United States
+E04699,Ivy Tang,Engineering,Female,48,65340.00,China
+E03579,Robert Zhang,Marketing,Male,45,202680.00,United States
+E01649,Eva Alvarado,IT,Female,46,77461.00,Brazil
+E04969,Abigail Vang,Engineering,Female,40,109680.00,China
+E00170,Claire Adams,Sales,Female,61,159567.00,United States
+E00955,Theodore Marquez,Engineering,Male,54,94407.00,Brazil
+E00810,Hunter Nunez,Human Resources,Male,62,234594.00,United States
+E02798,Charles Henderson,IT,Male,48,43080.00,United States
+E04542,Camila Cortez,Marketing,Female,29,129541.00,United States
+E02818,Aaron Garza,Sales,Male,39,165756.00,United States
+E02907,Jose Singh,Finance,Male,44,142878.00,United States
+E00023,Gabriel Joseph,Engineering,Male,52,187992.00,United States
+E02391,Natalia Santos,Human Resources,Female,45,249801.00,Brazil
+E01429,Dylan Wilson,IT,Male,48,76505.00,United States
+E00494,Robert Alvarez,IT,Male,39,84297.00,Brazil
+E00634,Samantha Chavez,Sales,Female,53,75769.00,Brazil
+E01249,Samuel Bailey,Accounting,Male,41,235619.00,United States
+E04683,Ezekiel Delgado,Engineering,Male,40,187187.00,Brazil
+E04732,Benjamin Ramirez,IT,Male,48,68987.00,United States
+E03834,Anthony Carter,Engineering,Male,41,155926.00,United States
+E02923,Ethan Tang,Accounting,Male,54,93668.00,United States
+E02642,Sebastian Rogers,Human Resources,Male,38,69647.00,United States
+E00981,Miles Thao,IT,Male,57,63318.00,United States
+E04157,William Cao,Marketing,Male,63,77629.00,China
+E03528,Leo Hsu,Human Resources,Male,62,138808.00,China
+E04547,Avery Grant,IT,Female,49,88777.00,United States
+E04415,Penelope Fong,Accounting,Female,60,186378.00,China
+E04484,Vivian Thao,Engineering,Female,45,60017.00,United States
+E02800,Eva Estrada,Sales,Female,45,148991.00,Brazil
+E04926,Emma Luna,Engineering,Female,52,97398.00,Brazil
+E01268,Charlotte Wu,Human Resources,Female,63,72805.00,China
+E04853,Vivian Chu,Sales,Female,46,72131.00,China
+E01209,Jayden Williams,Human Resources,Male,64,104668.00,United States
+E02024,Amelia Bell,Sales,Female,53,89769.00,United States
+E02427,Addison Mehta,Sales,Female,27,127616.00,United States
+E00276,Alexander Jackson,Human Resources,Male,45,109883.00,United States
+E00951,Everly Lin,Human Resources,Female,25,47974.00,China
+E03248,Lyla Stewart,IT,Female,43,120321.00,United States
+E04444,Brooklyn Ruiz,IT,Female,61,57446.00,United States
+E02307,Skylar Evans,Accounting,Female,42,174099.00,United States
+E02375,Lincoln Huynh,Finance,Male,63,128703.00,United States
+E02276,Hazel Griffin,Engineering,Female,32,65247.00,United States
+E02649,Charles Gonzalez,Engineering,Male,27,64247.00,Brazil
+E00503,Leah Patterson,Human Resources,Female,33,118253.00,United States
+E01706,Avery Sun,Engineering,Female,45,109422.00,China
+E00676,Isaac Yoon,Human Resources,Male,41,126950.00,United States
+E02005,Isabella Bui,IT,Female,36,97500.00,United States
+E01895,Gabriel Zhou,IT,Male,25,41844.00,China
+E01396,Jack Vu,Accounting,Male,43,58875.00,China
+E00749,Valentina Moua,Sales,Female,37,64204.00,United States
+E01941,Quinn Trinh,Sales,Female,42,67743.00,China
+E01413,Caroline Nelson,Sales,Female,60,71677.00,United States
+E03928,Miles Dang,IT,Male,61,40063.00,United States
+E04109,Leah Bryant,IT,Female,55,40124.00,United States
+E03994,Henry Jung,Engineering,Male,57,103183.00,United States
+E00639,Benjamin Mai,IT,Male,54,95239.00,United States
+E00608,Anna Han,Engineering,Female,29,75012.00,United States
+E04189,Ariana Kim,IT,Female,33,96366.00,China
+E02732,Alice Tran,Marketing,Female,39,40897.00,United States
+E00324,Hailey Song,Finance,Female,37,124928.00,China
+E00518,Lydia Morales,Finance,Female,51,108221.00,Brazil
+E01286,Liam Sanders,Human Resources,Male,46,75579.00,United States
+E04564,Luke Sanchez,Human Resources,Male,41,129903.00,Brazil
+E02033,Grace Sun,Finance,Female,25,186870.00,China
+E00412,Ezra Banks,Sales,Male,37,57531.00,United States
+E01844,Jayden Kang,Finance,Male,46,55894.00,United States
+E00667,Skylar Shah,Engineering,Female,42,72903.00,United States
+E02639,Sebastian Le,Finance,Male,37,45369.00,China
+E00287,Luca Nelson,Finance,Male,60,106578.00,United States
+E02235,Riley Ramirez,Human Resources,Female,52,92994.00,United States
+E02720,Jaxon Fong,Sales,Male,59,83685.00,China
+E03583,Kayden Jordan,IT,Male,48,99335.00,United States
+E01188,Alexander James,Human Resources,Male,42,131179.00,United States
+E02428,Connor Luu,IT,Male,35,73899.00,China
+E03289,Christopher Lam,Accounting,Male,64,252325.00,United States
+E01947,Sophie Owens,Finance,Female,30,52697.00,United States
+E02024,Addison Perez,Engineering,Female,29,123588.00,Brazil
+E04249,Hadley Dang,Accounting,Female,47,243568.00,United States
+E01090,Ethan Mehta,Sales,Male,49,199176.00,United States
+E03830,Madison Her,IT,Female,56,82806.00,United States
+E04363,Savannah Singh,Marketing,Female,53,164399.00,United States
+E04920,Nevaeh Hsu,Human Resources,Female,32,154956.00,United States
+E03866,Jordan Zhu,Marketing,Male,32,143970.00,United States
+E03521,Jackson Navarro,Sales,Male,52,163143.00,Brazil
+E04095,Sadie Patterson,Accounting,Female,38,89390.00,United States
+E04079,Christopher Butler,IT,Male,41,67468.00,United States
+E01508,Penelope Rodriguez,Engineering,Female,49,100810.00,Brazil
+E02259,Emily Lau,Finance,Female,35,74779.00,United States
+E04972,Sophie Oh,IT,Female,29,63985.00,United States
+E01834,Chloe Allen,IT,Female,64,77903.00,United States
+E03124,Caleb Nelson,Marketing,Male,33,164396.00,United States
+E01898,Oliver Moua,IT,Male,29,71234.00,United States
+E00342,Wesley Doan,Finance,Male,63,122487.00,China
+E03910,Nova Hsu,Human Resources,Female,32,101870.00,United States
+E00862,Levi Moreno,IT,Male,64,40316.00,Brazil
+E02576,Gianna Ha,IT,Female,55,115145.00,China
+E00035,Lillian Gonzales,IT,Female,43,62335.00,Brazil
+E01832,Ezra Singh,Finance,Male,56,41561.00,United States
+E01755,Audrey Patel,Finance,Female,37,131183.00,China
+E00465,Brooklyn Cho,IT,Female,45,92655.00,China
+E02391,Piper Ramos,Sales,Female,49,157057.00,United States
+E04697,Eleanor Williams,IT,Female,61,64462.00,United States
+E00371,Melody Grant,Engineering,Female,41,79352.00,United States
+E02992,Paisley Sanders,Marketing,Female,55,157812.00,United States
+E04369,Santiago f Gray,Engineering,Male,27,80745.00,United States
+E00592,Josephine Richardson,IT,Female,57,75354.00,United States
+E03532,Jaxson Santiago,Engineering,Male,56,78938.00,United States
+E00863,Lincoln Ramos,Engineering,Male,59,96313.00,United States
+E03310,Dylan Campbell,Engineering,Male,45,153767.00,United States
+E01883,Olivia Gray,Marketing,Female,42,103423.00,United States
+E01242,Emery Doan,Engineering,Female,25,86464.00,China
+E02535,Caroline Perez,Engineering,Female,29,80516.00,Brazil
+E00369,Genesis Woods,Human Resources,Female,33,105390.00,United States
+E03332,Ruby Sun,IT,Female,50,83418.00,China
+E03278,Nevaeh James,IT,Female,45,66660.00,United States
+E02492,Parker Sandoval,Human Resources,Male,59,101985.00,United States
+E03055,Austin Rojas,Finance,Male,29,199504.00,United States
+E01943,Vivian Espinoza,Sales,Female,52,147966.00,Brazil
+E01388,Cooper Gupta,Human Resources,Male,58,41728.00,China
+E00717,Axel Santos,Accounting,Male,62,94422.00,United States
+E04637,Samuel Song,Sales,Male,31,191026.00,United States
+E03240,Aiden Silva,IT,Male,42,186725.00,Brazil
+E00340,Eliana Allen,Human Resources,Female,56,52800.00,United States
+E04751,Grayson James,Engineering,Male,54,113982.00,United States
+E04636,Hailey Yee,Sales,Female,54,56239.00,China
+E00568,Ian Vargas,Sales,Male,26,44732.00,Brazil
+E02938,John Trinh,Marketing,Male,49,153961.00,China
+E00555,Sofia Trinh,IT,Female,45,68337.00,China
+E01111,Santiago f Moua,Human Resources,Male,45,145093.00,United States
+E03149,Layla Collins,IT,Female,26,74170.00,United States
+E00952,Jaxon Powell,Engineering,Male,59,62605.00,United States
+E04380,Naomi Washington,IT,Female,51,107195.00,United States
+E04095,Ryan Holmes,Marketing,Male,45,127422.00,United States
+E04994,Bella Holmes,Accounting,Female,35,161269.00,United States
+E00447,Hailey Sanchez,Marketing,Female,32,203445.00,Brazil
+E00089,Sofia Yoon,Human Resources,Female,37,131353.00,China
+E02035,Eli Rahman,IT,Male,45,88182.00,China
+E03595,Christopher Howard,IT,Male,61,75780.00,United States
+E03611,Alice Mehta,Sales,Female,45,52621.00,China
+E04464,Cooper Yoon,Engineering,Male,60,106079.00,United States
+E02135,John Delgado,IT,Male,30,92058.00,United States
+E01684,Jaxson Liang,Engineering,Male,64,67114.00,United States
+E02968,Caroline Santos,Finance,Female,25,56565.00,Brazil
+E03362,Lily Henderson,Human Resources,Female,61,64937.00,United States
+E01108,Hannah Martinez,Marketing,Female,65,127626.00,United States
+E02217,William Phillips,IT,Male,61,88478.00,United States
+E03519,Eliza Zheng,IT,Female,48,91679.00,China
+E01967,John Dang,Sales,Male,58,199848.00,China
+E01125,Joshua Yang,IT,Male,34,61944.00,China
+E03795,Hazel Young,Sales,Female,30,154624.00,United States
+E00508,Thomas Jung,Accounting,Male,50,79447.00,China
+E02047,Xavier Perez,Sales,Male,51,71111.00,Brazil
+E01582,Elijah Coleman,Sales,Male,53,159538.00,United States
+E02563,Clara Sanchez,Engineering,Female,47,111404.00,Brazil
+E04872,Isaac Stewart,Marketing,Male,25,172007.00,United States
+E03159,Claire Romero,Marketing,Female,37,219474.00,Brazil
+E01337,Andrew Coleman,Finance,Male,41,174415.00,United States
+E00102,Riley Rojas,IT,Female,36,90333.00,Brazil
+E03637,Landon Thao,Human Resources,Male,25,67299.00,United States
+E03455,Hadley Ford,IT,Female,52,45286.00,United States
+E03354,Austin Brown,Marketing,Male,48,194723.00,United States
+E01225,Christian Fong,Sales,Male,49,109850.00,China
+E01264,Hazel Alvarez,Human Resources,Female,62,45295.00,Brazil
+E02274,Isabella Bailey,IT,Female,36,61310.00,United States
+E02848,Lincoln Huynh,IT,Male,55,87851.00,China
+E00480,Hadley Yee,Human Resources,Female,31,47913.00,United States
+E00203,Julia Doan,Human Resources,Female,53,46727.00,United States
+E00647,Dylan Ali,Human Resources,Male,27,133400.00,United States
+E03296,Eloise Trinh,IT,Female,39,90535.00,United States
+E02453,Dylan Kumar,Marketing,Male,55,93343.00,China
+E00647,Emily Gupta,Human Resources,Female,44,63705.00,United States
+E02522,Silas Rivera,Sales,Male,48,258081.00,United States
+E00459,Jackson Jordan,Human Resources,Male,48,54654.00,United States
+E03007,Isaac Joseph,Sales,Male,54,58006.00,United States
+E04035,Hailey Lai,Finance,Female,42,150034.00,China
+E00952,Leilani Thao,Human Resources,Female,38,198562.00,United States
+E03863,Madeline Watson,Sales,Female,40,62411.00,United States
+E02710,Silas Huang,Engineering,Male,57,111299.00,United States
+E01895,Peyton Walker,Marketing,Female,43,41545.00,United States
+E01339,Jeremiah Hernandez,IT,Male,26,74467.00,United States
+E02938,Jace Washington,Accounting,Male,44,117545.00,United States
+E03379,Landon Kim,Human Resources,Male,50,117226.00,United States
+E02153,Peyton Vasquez,Accounting,Female,26,55767.00,United States
+E00994,Charlotte Baker,Sales,Female,29,60930.00,United States
+E00943,Elena Mendoza,Sales,Female,27,154973.00,Brazil
+E00869,Nova Lin,IT,Female,33,69332.00,United States
+E03457,Ivy Desai,Engineering,Female,59,119699.00,China
+E02193,Josephine Acosta,Human Resources,Female,40,198176.00,Brazil
+E00577,Nora Nunez,Finance,Female,45,58586.00,Brazil
+E00538,Caleb Xiong,Sales,Male,38,74010.00,United States
+E01415,Henry Green,Sales,Male,32,96598.00,United States
+E00717,Madelyn Chan,Sales,Female,64,106444.00,United States
+E00225,Angel Delgado,Finance,Male,31,156931.00,United States
+E02889,Mia Herrera,Marketing,Female,43,171360.00,Brazil
+E04978,Peyton Harris,IT,Female,45,64505.00,United States
+E04163,David Herrera,Engineering,Male,32,102298.00,Brazil
+E01652,Avery Dominguez,Sales,Female,27,133297.00,Brazil
+E00880,Grace Carter,Human Resources,Female,25,155080.00,United States
+E04335,Parker Allen,Sales,Male,31,81828.00,United States
+E01300,Sadie Lee,Marketing,Female,65,149417.00,China
+E03102,Cooper Valdez,Sales,Male,50,113269.00,Brazil
+E04089,Sebastian Fong,IT,Male,46,136716.00,United States
+E02059,Roman Munoz,Sales,Male,54,122644.00,United States
+E03894,Charlotte Chang,Sales,Female,50,106428.00,United States
+E03106,Xavier Davis,Finance,Male,36,238236.00,United States
+E01350,Natalie Carter,Finance,Female,64,153253.00,United States
+E02900,Elena Richardson,Accounting,Female,34,103707.00,United States
+E02202,Emilia Bailey,Accounting,Female,41,245360.00,United States
+E02696,Ryan Lu,Engineering,Male,25,67275.00,United States
+E01722,Asher Huynh,IT,Male,45,101288.00,United States
+E04562,Kinsley Martinez,Human Resources,Female,52,177443.00,Brazil
+E00640,Paisley Bryant,IT,Female,37,91400.00,United States
+E02554,Joshua Ramirez,Human Resources,Male,44,181247.00,Brazil
+E03412,Joshua Martin,Human Resources,Male,42,135558.00,United States
+E00646,Charles Moore,Accounting,Male,49,56878.00,United States
+E04670,Angel Do,IT,Male,34,94735.00,China
+E03580,Maverick Medina,Sales,Male,39,51234.00,United States
+E00446,Isaac Han,Human Resources,Male,31,230025.00,United States
+E02363,Eliza Liang,Human Resources,Female,36,134006.00,China
+E03718,Zoe Zhou,Finance,Female,61,103096.00,China
+E01749,Nathan Lee,Accounting,Male,29,58703.00,United States
+E02888,Elijah Ramos,IT,Male,33,132544.00,Brazil
+E01338,Jaxson Coleman,Finance,Male,32,126671.00,United States
+E03000,Hailey Hong,Sales,Female,33,56405.00,United States
+E01611,Gabriella Zhu,IT,Female,36,88730.00,China
+E02684,Aaron Maldonado,Finance,Male,39,62861.00,United States
+E02561,Samantha Vargas,Human Resources,Female,53,151246.00,Brazil
+E03168,Nora Le,IT,Female,53,154388.00,United States
+E00758,Alice Roberts,Human Resources,Female,54,162978.00,United States
+E03691,Colton Garcia,IT,Male,55,80170.00,United States
+E01488,Stella Lai,Accounting,Female,44,98520.00,United States
+E04415,Leonardo Luong,Finance,Male,52,116527.00,United States
+E03278,Nicholas Wong,Sales,Male,27,174607.00,United States
+E00282,Jeremiah Castillo,Accounting,Male,58,64202.00,United States
+E03305,Cooper Jiang,Accounting,Male,49,50883.00,China
+E00559,Penelope Silva,IT,Female,36,94618.00,United States
+E02558,Jose Richardson,Marketing,Male,26,151556.00,United States
+E00956,Eleanor Chau,Engineering,Female,37,80659.00,United States
+E03858,John Cho,Human Resources,Male,47,195385.00,China
+E02221,Julian Delgado,IT,Male,29,52693.00,Brazil
+E00126,Isabella Scott,IT,Female,58,72045.00,United States
+E02627,Parker Avila,Marketing,Male,47,62749.00,Brazil
+E03778,Luke Vu,Marketing,Male,52,154884.00,China
+E00481,Jameson Nelson,IT,Male,61,96566.00,United States
+E02833,Adrian Fernandez,IT,Male,45,54994.00,United States
+E03902,Madison Hunter,IT,Female,40,61523.00,United States
+E02310,Jordan Phillips,Human Resources,Male,45,190512.00,United States
+E02661,Maya Chan,Engineering,Female,37,124827.00,China
+E00836,Wesley King,Accounting,Male,57,101577.00,United States
+E00682,Sofia Fernandez,Accounting,Female,44,105223.00,United States
+E00287,Maverick Figueroa,IT,Male,48,94815.00,United States
+E00785,Hannah Hoang,Accounting,Female,25,114893.00,China
+E04598,Violet Garcia,Marketing,Female,35,80622.00,United States
+E03247,Aaliyah Mai,IT,Female,57,246589.00,United States
+E02703,Austin Vang,Marketing,Male,49,119397.00,China
+E02191,Maria Sun,Sales,Female,25,150666.00,China
+E00156,Madelyn Scott,IT,Female,46,148035.00,United States
+E03349,Dylan Chin,Finance,Male,60,158898.00,United States
+E04032,Emery Zhang,Engineering,Female,45,89659.00,China
+E00005,Riley Washington,Sales,Female,39,171487.00,United States
+E04354,Raelynn Rios,Sales,Female,43,258498.00,United States
+E01578,Anthony Hong,IT,Male,37,146961.00,United States
+E03430,Leo Herrera,Human Resources,Male,48,85369.00,Brazil
+E03058,Robert Wright,IT,Male,30,67489.00,United States
+E04762,Audrey Richardson,IT,Female,46,166259.00,United States
+E01148,Scarlett Kumar,IT,Female,55,47032.00,United States
+E03094,Wesley Young,Marketing,Male,33,98427.00,United States
+E01909,Lillian Khan,Finance,Female,44,47387.00,China
+E04398,Oliver Yang,Marketing,Male,31,176710.00,United States
+E02521,Lily Nguyen,Finance,Female,33,95960.00,China
+E03545,Sofia Cheng,Accounting,Female,63,216195.00,United States
