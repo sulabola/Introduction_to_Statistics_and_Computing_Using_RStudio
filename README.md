@@ -4,4 +4,4 @@ This repository provides learning materials and practical examples for introduct
 
 Programming Language: [R](https://cran.r-project.org/bin/windows/base/) / [RStudio](https://posit.co/downloads/)
 
-Data: The required data is available in the CSV files in the repository under Datasets.
+Data: The required data is available in the CSV files in the repository under Datasets folder.
